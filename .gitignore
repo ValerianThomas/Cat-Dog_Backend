@@ -4,3 +4,5 @@ Pipfile
 Pipfile.lock
 .envrc
 __pycache__
+
+scripts
