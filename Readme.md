@@ -106,6 +106,7 @@ Body :
 Install all dependencies, make sure that you have python 3.7 installed and docker running on your computer.
 
 ```bash
+pip install -r requirements.txt
 docker built --t cat_vs_dog .
 ```
 
