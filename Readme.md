@@ -1,4 +1,4 @@
-![](Readme/Untitled%20Diagram-2.png)
+![](readmeAssets/basic-uml.png)
 # Cat VS Dog AI
  [![made-with-python-3.7.4](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ## Overview
