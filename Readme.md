@@ -107,7 +107,7 @@ Install all dependencies, make sure that you have python 3.7 installed and docke
 
 ```bash
 pip install -r requirements.txt
-docker built --t cat_vs_dog .
+docker build --t cat_vs_dog .
 ```
 
 Then once built
