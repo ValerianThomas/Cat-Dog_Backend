@@ -112,7 +112,7 @@ docker build -t cat_vs_dog .
 Then once built
 
 ```bash
-sudo PORT=5000 docker run -p 5000:5000 -e PORT  -t cat_dog:latest
+sudo PORT=5000 docker run -p 5000:5000 -e PORT  -t cat_vs_dog:latest
 ```
 
 If when calling on ‘localhost:5000/ping you’  get  the following message
