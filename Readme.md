@@ -106,7 +106,7 @@ Body :
 Make sure that you have python 3.7 installed and docker running on your computer.
 
 ```bash
-docker build --t cat_vs_dog .
+docker build -t cat_vs_dog .
 ```
 
 Then once built
