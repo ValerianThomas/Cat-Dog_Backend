@@ -103,10 +103,9 @@ Body :
 ```
 
 ## To kick start the server :
-Install all dependencies, make sure that you have python 3.7 installed and docker running on your computer.
+Make sure that you have python 3.7 installed and docker running on your computer.
 
 ```bash
-pip install -r requirements.txt
 docker build --t cat_vs_dog .
 ```
 
